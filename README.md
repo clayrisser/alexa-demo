@@ -6,9 +6,7 @@
 
 Please ★ this repo if you found it useful ★ ★ ★
 
-
-
-
+<img style="max-height:600px;width:100%;object-fit:cover" src="./alexa-demo.png" />
 
 ## Usage
 
